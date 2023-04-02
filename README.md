@@ -1,4 +1,4 @@
-# Домашнее задание к занятию "`Git`" - `Borobov Ivan`
+# Домашнее задание к занятию "`Git`" - `Borobov Ivan S`
 
 ---
 
@@ -6,7 +6,7 @@
 
 1. `Создал репозиторий на Github и клонирую его на свой ПК git clone https://github.com/Borobov/netology.git`
 2. `Указал своё имя и электронную почту: git config --global user.name "Borobov I" git config --global user.email ivanb2003@mail.ru`
-3. `![alt text](https://github.com/Borobov/gitlab-hw/blob/e2a998f630feb890cb1f6f823ce4657fa3f30720/1-git-status.png)`
+3. ![alt text](https://github.com/Borobov/gitlab-hw/blob/e2a998f630feb890cb1f6f823ce4657fa3f30720/1-git-status.png)
 4. `https://github.com/Borobov/netology.git`
 
 ```
