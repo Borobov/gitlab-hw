@@ -10,7 +10,7 @@
 4. ![скриншот 2](https://github.com/Borobov/gitlab-hw/blob/main/img/2-git-status-git-diff-git-staged.png)
 5. ![скриншот 3](https://github.com/Borobov/gitlab-hw/blob/main/img/3-git-add.png)
 6. ![скриншот 4](https://github.com/Borobov/gitlab-hw/blob/main/img/4-git-commit.png)
-7. `https://github.com/netology-code/sys-pattern-homework/commit/e8cb4db5d4bd8bb18106003e87941489e6b03404`
+7. `https://github.com/Borobov/netology/commit/6dc21324c66727c46a655f2ff92b977e23ba741b`
 
 ---
 
