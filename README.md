@@ -27,6 +27,6 @@
 ---
 ## Дополнительные задания (со звездочкой*)
 ### Задание 4
-`Скриншот конфликта`
+1. `Скриншот конфликта`
 ![Скрин конфликт](https://github.com/Borobov/gitlab-hw/blob/main/img/conflict-2.png)
-`Ответ: https://github.com/Borobov/netology/network`
+2. `Ответ: https://github.com/Borobov/netology/network`
