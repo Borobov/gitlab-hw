@@ -1,4 +1,4 @@
-# Домашнее задание к занятию "`Git`" - `Borobov Ivan S`
+# Домашнее задание к занятию "`Git`" - `Borobov Ivan`
 
 ---
 
@@ -10,25 +10,11 @@
 4. ![скриншот 2](https://github.com/Borobov/gitlab-hw/blob/main/img/2-git-status-git-diff-git-staged.png)
 5. ![скриншот 3](https://github.com/Borobov/gitlab-hw/blob/main/img/3-git-add.png)
 6. ![скриншот 4](https://github.com/Borobov/gitlab-hw/blob/main/img/4-git-commit.png)
-7. `https://github.com/Borobov/netology.git`
-
-```
-Поле для вставки кода...
-....
-....
-....
-....
-```
-
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота 1](ссылка на скриншот 1)`
-
+7. `https://github.com/netology-code/sys-pattern-homework/commit/e8cb4db5d4bd8bb18106003e87941489e6b03404`
 
 ---
 
 ### Задание 2
-
-`Приведите ответ в свободной форме........`
 
 1. `Заполните здесь этапы выполнения, если требуется ....`
 2. `Заполните здесь этапы выполнения, если требуется ....`
