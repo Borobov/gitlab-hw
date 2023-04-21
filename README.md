@@ -5,7 +5,7 @@
 ### Задание - 1
 
 1. `Создал репозиторий на Github и клонирую его на свой ПК git clone https://github.com/Borobov/netology.git`
-2. `Указал своё имя и электронную почту: git config --global user.name "Borobov I" git config --global user.email ivanb2003@mail.ru`
+2. `Указал своё имя и электронную почту: git config --global user.name "Borobov I" git config --global user.email2003@mail.ru`
 3. ![скриншот 1](https://github.com/Borobov/gitlab-hw/blob/main/img/1-git-status.png)
 4. ![скриншот 2](https://github.com/Borobov/gitlab-hw/blob/main/img/2-git-status-git-diff-git-staged.png)
 5. ![скриншот 3](https://github.com/Borobov/gitlab-hw/blob/main/img/3-git-add.png)
