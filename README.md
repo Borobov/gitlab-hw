@@ -2,7 +2,7 @@
 
 ---
 
-### Задание 1
+### Задание - 1
 
 1. `Создал репозиторий на Github и клонирую его на свой ПК git clone https://github.com/Borobov/netology.git`
 2. `Указал своё имя и электронную почту: git config --global user.name "Borobov I" git config --global user.email ivanb2003@mail.ru`
